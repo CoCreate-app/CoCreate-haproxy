@@ -4,7 +4,6 @@
   "description": "An intergration with Haproxy and CoCreateJS.",
   "keywords": [
     "haproxy",
-    "chain-functions",
     "cocreate",
     "low-code-framework",
     "no-code-framework",
